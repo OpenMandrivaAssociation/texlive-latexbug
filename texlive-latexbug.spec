@@ -1,6 +1,6 @@
 Name:		texlive-latexbug
 Version:	63596
-Release:	1
+Release:	2
 Summary:	Bug-classification for LaTeX related bugs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latexbug
