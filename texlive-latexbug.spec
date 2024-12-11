@@ -1,5 +1,5 @@
 Name:		texlive-latexbug
-Version:	71550
+Version:	72762
 Release:	1
 Summary:	Bug-classification for LaTeX related bugs
 Group:		Publishing
